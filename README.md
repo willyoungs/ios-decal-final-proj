@@ -1,7 +1,7 @@
 # LocationBasedAlarm #
 ## Authors ##
-* Robert Chang
-* Will Youngs
+* Robert Chang *
+* Will Youngs *
 ## Purpose ##
 Alarm which gets activated when the user is within a certain threshold distance from a target location. 
 ## Features ##
