@@ -20,8 +20,10 @@ Alarm which gets activated when the user is within a certain threshold distance 
 ## Implementation ##
 ### Model ###
 * Location Alarm
+
 ### View ###
 * Just going to do this programatically in Controller
+
 ### Controller ###
 * ViewController.swift
 * AddAlarmController.swift
