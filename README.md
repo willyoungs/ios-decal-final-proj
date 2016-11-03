@@ -1,6 +1,5 @@
 # LocationBasedAlarm #
 ## Authors ##
-* Robert Chang
 * Will Youngs
 
 ## Purpose ##
